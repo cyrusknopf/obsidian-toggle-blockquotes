@@ -1,0 +1,15 @@
+{
+  "name": "obsidian-toggle-blockquotes",
+  "version": "1.0.0",
+  "description": "Obisidian plugin for toggling the visibility of block quotes",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "obsidian": "^1.5.7-1",
+    "typescript": "^5.5.2"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-toggle-blockquotes",
+  "name": "Obsidian Toggle Blockquotes",
+  "version": "0.1.0",
+  "minAppVersion": "0.12.0",
+  "description": "A plugin to toggle the visibility of blockquotes",
+  "author": "Cyrus Knopf",
+  "authorUrl": "https://cyrusknopf.com",
+  "isDesktopOnly": false
+}
